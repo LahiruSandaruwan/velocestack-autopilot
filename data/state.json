@@ -6,6 +6,15 @@
   ]
  },
  "promoted": {},
- "history": [],
- "pending": "20260924-1537-tip"
+ "history": [
+  {
+   "id": "20260924-1537-tip",
+   "type": "tip",
+   "headline": "Send the welcome email immediately",
+   "mode": "review",
+   "results": {},
+   "errors": {}
+  }
+ ],
+ "pending": null
 }
