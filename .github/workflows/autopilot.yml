@@ -2,9 +2,13 @@ name: autopilot
 
 on:
   schedule:
-    # 03:30 and 13:30 UTC = 09:00 and 19:00 in Sri Lanka
-    - cron: "30 3 * * *"
-    - cron: "30 13 * * *"
+    # 3 posts/day at peak hours for US, UK, Canada, India, Philippines (UTC):
+    # 11:30 UTC = 19:30 Philippines, 12:30 UK, 17:00 India
+    - cron: "30 11 * * *"
+    # 16:00 UTC = 12:00 US/Canada East, 09:00 US West, 21:30 India
+    - cron: "0 16 * * *"
+    # 23:00 UTC = 19:00 US/Canada East, 16:00 US West
+    - cron: "0 23 * * *"
   workflow_dispatch:
     inputs:
       mode:
