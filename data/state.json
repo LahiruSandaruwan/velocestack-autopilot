@@ -1,11 +1,14 @@
 {
- "counter": 2,
+ "counter": 3,
  "used": {
   "tip": [
    "welcome-email-fast"
   ],
   "product": [
    "small-business-marketing-kit"
+  ],
+  "term": [
+   "seo"
   ]
  },
  "promoted": {
@@ -31,5 +34,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20260924-1639-term"
 }
