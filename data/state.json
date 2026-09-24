@@ -1,11 +1,16 @@
 {
- "counter": 1,
+ "counter": 2,
  "used": {
   "tip": [
    "welcome-email-fast"
+  ],
+  "product": [
+   "small-business-marketing-kit"
   ]
  },
- "promoted": {},
+ "promoted": {
+  "prod:flyer-brochure-template-bundle-100-flyers-brochures-600-psd-banners-for-small-business-marketing": 1
+ },
  "history": [
   {
    "id": "20260924-1537-tip",
@@ -16,5 +21,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20260924-1554-product"
 }
