@@ -1,0 +1,78 @@
+name: autopilot
+
+on:
+  schedule:
+    # 03:30 and 13:30 UTC = 09:00 and 19:00 in Sri Lanka
+    - cron: "30 3 * * *"
+    - cron: "30 13 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "review (drafts to Telegram only) or auto (post publicly). Empty = use repo variable MODE"
+        required: false
+        default: ""
+
+concurrency:
+  group: autopilot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      MODE: ${{ inputs.mode || vars.MODE || 'review' }}
+      SHOP_URL: ${{ vars.SHOP_URL }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      TELEGRAM_CHANNEL_ID: ${{ vars.TELEGRAM_CHANNEL_ID }}
+      FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+      IG_USER_ID: ${{ vars.IG_USER_ID }}
+      IG_REELS: ${{ vars.IG_REELS }}
+      PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+      PINTEREST_BOARD_ID: ${{ vars.PINTEREST_BOARD_ID }}
+      PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+      PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
+      PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-dejavu-core ffmpeg
+
+      - name: Random delay (looks less robotic, scheduled runs only)
+        if: github.event_name == 'schedule'
+        run: sleep $((RANDOM % 600))
+
+      - name: Generate post
+        run: python -m autopilot.run generate
+
+      - name: Commit the new post (needed so platforms can fetch the image)
+        run: |
+          git config user.name "autopilot"
+          git config user.email "autopilot@users.noreply.github.com"
+          git add -A
+          git commit -m "autopilot: new post" || echo "nothing to commit"
+          git push
+
+      - name: Publish (review = Telegram draft, auto = platforms)
+        run: python -m autopilot.run publish
+
+      - name: Commit state
+        run: |
+          git add -A
+          git commit -m "autopilot: state" || echo "nothing to commit"
+          git push
