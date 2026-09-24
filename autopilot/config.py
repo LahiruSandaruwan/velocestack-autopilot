@@ -63,9 +63,15 @@ FREE_GUIDES = [
 ]
 TYPE_TO_GUIDE = {"tip": "email", "term": "dictionary", "tool": "tools"}
 
-# 14 slots = 7 days x 2 posts. ~50% education, ~21% free guides, ~29% paid products.
-PATTERN = ["tip", "product", "term", "freebie", "tool", "product", "tip",
-           "freebie", "term", "product", "tool", "tip", "freebie", "product"]
+# PHASE=audience (default): only free Gumroad guides + education posts, to build a follower / email base.
+# PHASE=sales: adds Fourthwall paid product posts. Switch with the repo variable PHASE.
+PHASE = env("PHASE", "audience").lower()
+PATTERN_AUDIENCE = ["tip", "freebie", "term", "tool", "freebie", "tip", "term",
+                    "freebie", "tool", "tip", "freebie", "term", "tool", "freebie"]
+# ~50% education, ~21% free guides, ~29% paid products.
+PATTERN_SALES = ["tip", "product", "term", "freebie", "tool", "product", "tip",
+                 "freebie", "term", "product", "tool", "tip", "freebie", "product"]
+PATTERN = PATTERN_SALES if PHASE == "sales" else PATTERN_AUDIENCE
 
 BANNED_WORDS = ["guaranteed", "get rich", "passive income guaranteed", "100% profit", "no risk",
                 "make $", "earn $", "cure", "miracle"]
