@@ -19,7 +19,17 @@
    "mode": "review",
    "results": {},
    "errors": {}
+  },
+  {
+   "id": "20260924-1554-product",
+   "type": "product",
+   "headline": "Tired of paying designers for every marketing piece?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260924-1554-product"
+ "pending": null
 }
