@@ -32,7 +32,19 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260924-1639-term",
+   "type": "term",
+   "headline": "Search Engine Optimization (SEO)",
+   "mode": "auto",
+   "results": {
+    "instagram": "18109175051266401"
+   },
+   "errors": {
+    "facebook": "403 Client Error: Forbidden for url: https://graph.facebook.com/v23.0/1364842860037464/photos"
+   }
   }
  ],
- "pending": "20260924-1639-term"
+ "pending": null
 }
