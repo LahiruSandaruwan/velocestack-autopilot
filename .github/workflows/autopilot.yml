@@ -25,6 +25,7 @@ jobs:
     timeout-minutes: 30
     env:
       MODE: ${{ inputs.mode || vars.MODE || 'review' }}
+      PHASE: ${{ vars.PHASE || 'audience' }}
       SHOP_URL: ${{ vars.SHOP_URL }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
