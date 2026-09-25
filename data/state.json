@@ -1,8 +1,9 @@
 {
- "counter": 5,
+ "counter": 6,
  "used": {
   "tip": [
-   "welcome-email-fast"
+   "welcome-email-fast",
+   "segment-audience-smart"
   ],
   "product": [
    "small-business-marketing-kit"
@@ -73,5 +74,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20260925-2003-tip"
 }
