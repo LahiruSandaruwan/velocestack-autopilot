@@ -72,7 +72,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260925-2003-tip",
+   "type": "tip",
+   "headline": "Segment Your Email List",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260925-2003-tip"
+ "pending": null
 }
