@@ -61,7 +61,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260925-1604-freebie",
+   "type": "freebie",
+   "headline": "Free: 21 Email Marketing Hacks",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260925-1604-freebie"
+ "pending": null
 }
