@@ -83,7 +83,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260926-0132-term",
+   "type": "term",
+   "headline": "Email Marketing",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260926-0132-term"
+ "pending": null
 }
