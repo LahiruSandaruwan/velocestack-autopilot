@@ -95,7 +95,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260926-1509-freebie",
+   "type": "freebie",
+   "headline": "Marketing jargon got you stuck? Get clarity!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260926-1509-freebie"
+ "pending": null
 }
