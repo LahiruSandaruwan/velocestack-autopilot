@@ -106,7 +106,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260926-1910-tool",
+   "type": "tool",
+   "headline": "Mailchimp: Stay connected with your audience",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260926-1910-tool"
+ "pending": null
 }
