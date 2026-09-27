@@ -117,7 +117,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260927-0119-tip",
+   "type": "tip",
+   "headline": "Simply Ask for Feedback",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260927-0119-tip"
+ "pending": null
 }
