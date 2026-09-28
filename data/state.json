@@ -151,7 +151,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260928-0134-tool",
+   "type": "tool",
+   "headline": "Canva: Easy Graphic Design for Everyone",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260928-0134-tool"
+ "pending": null
 }
