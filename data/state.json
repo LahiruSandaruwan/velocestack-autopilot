@@ -162,7 +162,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260928-1848-freebie",
+   "type": "freebie",
+   "headline": "Boost your emails with 21 easy, practical hacks",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260928-1848-freebie"
+ "pending": null
 }
