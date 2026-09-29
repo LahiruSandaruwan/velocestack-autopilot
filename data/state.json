@@ -1,5 +1,5 @@
 {
- "counter": 17,
+ "counter": 18,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -19,7 +19,8 @@
   "tool": [
    "google-analytics-traffic",
    "mailchimp-email-marketing",
-   "canva-graphic-design"
+   "canva-graphic-design",
+   "buffer-social-scheduling"
   ],
   "freebie": [
    "guide-email746",
@@ -207,5 +208,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20260929-2043-tool"
 }
