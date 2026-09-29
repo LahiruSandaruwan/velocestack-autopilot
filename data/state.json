@@ -195,7 +195,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260929-1700-term",
+   "type": "term",
+   "headline": "Social Media Marketing",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260929-1700-term"
+ "pending": null
 }
