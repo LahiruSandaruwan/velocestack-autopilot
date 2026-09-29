@@ -184,7 +184,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260929-0236-freebie",
+   "type": "freebie",
+   "headline": "Decode Marketing Jargon: Your A-Z Guide",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260929-0236-freebie"
+ "pending": null
 }
