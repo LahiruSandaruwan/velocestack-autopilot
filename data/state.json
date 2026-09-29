@@ -206,7 +206,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260929-2043-tool",
+   "type": "tool",
+   "headline": "Buffer: Schedule Social Media Posts Easily",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260929-2043-tool"
+ "pending": null
 }
