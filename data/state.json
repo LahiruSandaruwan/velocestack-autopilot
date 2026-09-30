@@ -1,5 +1,5 @@
 {
- "counter": 20,
+ "counter": 21,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -15,7 +15,8 @@
    "seo",
    "email-marketing",
    "content-marketing",
-   "social-media-marketing"
+   "social-media-marketing",
+   "affiliate-marketing"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -240,5 +241,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20260930-2041-term"
 }
