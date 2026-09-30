@@ -228,7 +228,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20260930-1701-tip",
+   "type": "tip",
+   "headline": "Send on a steady schedule",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20260930-1701-tip"
+ "pending": null
 }
