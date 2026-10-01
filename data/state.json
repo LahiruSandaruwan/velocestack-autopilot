@@ -261,7 +261,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261001-1747-tool",
+   "type": "tool",
+   "headline": "Google Search Console: Boost Your Website",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261001-1747-tool"
+ "pending": null
 }
