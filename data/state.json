@@ -272,7 +272,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261001-2059-tip",
+   "type": "tip",
+   "headline": "Focus on One Clear Action",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261001-2059-tip"
+ "pending": null
 }
