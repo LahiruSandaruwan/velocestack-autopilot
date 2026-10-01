@@ -1,12 +1,13 @@
 {
- "counter": 23,
+ "counter": 24,
  "used": {
   "tip": [
    "welcome-email-fast",
    "segment-audience-smart",
    "ask-for-feedback",
    "test-one-thing",
-   "steady-schedule"
+   "steady-schedule",
+   "focus-one-cta"
   ],
   "product": [
    "small-business-marketing-kit"
@@ -273,5 +274,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261001-2059-tip"
 }
