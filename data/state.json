@@ -283,7 +283,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261002-0210-freebie",
+   "type": "freebie",
+   "headline": "Decode marketing terms: A plain English guide",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261002-0210-freebie"
+ "pending": null
 }
