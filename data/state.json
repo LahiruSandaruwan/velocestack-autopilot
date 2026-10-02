@@ -294,7 +294,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261002-1654-term",
+   "type": "term",
+   "headline": "Conversion Rate Optimization (CRO)",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261002-1654-term"
+ "pending": null
 }
