@@ -305,7 +305,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261002-2038-tool",
+   "type": "tool",
+   "headline": "Grammarly: Improve your writing instantly",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261002-2038-tool"
+ "pending": null
 }
