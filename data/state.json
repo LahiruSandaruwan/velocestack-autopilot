@@ -316,7 +316,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261003-0158-freebie",
+   "type": "freebie",
+   "headline": "Zero-budget marketing? Get 101 free tools today!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261003-0158-freebie"
+ "pending": null
 }
