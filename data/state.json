@@ -338,7 +338,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261003-1911-freebie",
+   "type": "freebie",
+   "headline": "Boost your emails, one simple hack at a time.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261003-1911-freebie"
+ "pending": null
 }
