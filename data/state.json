@@ -1,5 +1,5 @@
 {
- "counter": 28,
+ "counter": 29,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -7,7 +7,8 @@
    "ask-for-feedback",
    "test-one-thing",
    "steady-schedule",
-   "focus-one-cta"
+   "focus-one-cta",
+   "write-clear-subject"
   ],
   "product": [
    "small-business-marketing-kit"
@@ -328,5 +329,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261003-1519-tip"
 }
