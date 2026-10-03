@@ -327,7 +327,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261003-1519-tip",
+   "type": "tip",
+   "headline": "Write Clear Subject Lines",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261003-1519-tip"
+ "pending": null
 }
