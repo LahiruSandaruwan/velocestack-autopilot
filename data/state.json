@@ -371,7 +371,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261004-1930-freebie",
+   "type": "freebie",
+   "headline": "Cut through marketing jargon, for good. Free guide!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261004-1930-freebie"
+ "pending": null
 }
