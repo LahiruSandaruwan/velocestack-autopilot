@@ -349,7 +349,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261004-0230-term",
+   "type": "term",
+   "headline": "What's a Landing Page?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261004-0230-term"
+ "pending": null
 }
