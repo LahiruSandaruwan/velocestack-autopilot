@@ -404,7 +404,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261006-1723-freebie",
+   "type": "freebie",
+   "headline": "Grow your reach for free? Get 101 marketing tools!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261006-1723-freebie"
+ "pending": null
 }
