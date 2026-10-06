@@ -1,5 +1,5 @@
 {
- "counter": 36,
+ "counter": 37,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -31,7 +31,8 @@
    "buffer-social-scheduling",
    "google-search-console-seo",
    "grammarly-writing-assistant",
-   "google-forms-data-collection"
+   "google-forms-data-collection",
+   "linktree-link-in-bio"
   ],
   "freebie": [
    "guide-email746",
@@ -416,5 +417,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261006-2058-tool"
 }
