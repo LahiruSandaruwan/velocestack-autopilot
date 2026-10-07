@@ -437,7 +437,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261007-1806-freebie",
+   "type": "freebie",
+   "headline": "Unlock your email potential: 21 simple hacks",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261007-1806-freebie"
+ "pending": null
 }
