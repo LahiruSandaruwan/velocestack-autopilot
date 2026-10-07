@@ -426,7 +426,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261007-0220-tip",
+   "type": "tip",
+   "headline": "Keep Your Emails Short and Sweet",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261007-0220-tip"
+ "pending": null
 }
