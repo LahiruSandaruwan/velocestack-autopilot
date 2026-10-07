@@ -448,7 +448,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261007-2111-term",
+   "type": "term",
+   "headline": "Call to Action (CTA)",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261007-2111-term"
+ "pending": null
 }
