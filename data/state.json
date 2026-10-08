@@ -481,7 +481,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261008-2113-tip",
+   "type": "tip",
+   "headline": "Make Your Emails Easy to Read on Any Device",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261008-2113-tip"
+ "pending": null
 }
