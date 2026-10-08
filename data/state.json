@@ -459,7 +459,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261008-0248-tool",
+   "type": "tool",
+   "headline": "Trello: Organize Your Projects Visually",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261008-0248-tool"
+ "pending": null
 }
