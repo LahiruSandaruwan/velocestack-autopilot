@@ -470,7 +470,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261008-1800-freebie",
+   "type": "freebie",
+   "headline": "Free: The Internet Marketing Dictionary",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261008-1800-freebie"
+ "pending": null
 }
