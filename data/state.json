@@ -503,7 +503,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261009-1742-term",
+   "type": "term",
+   "headline": "What's a Lead Magnet?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261009-1742-term"
+ "pending": null
 }
