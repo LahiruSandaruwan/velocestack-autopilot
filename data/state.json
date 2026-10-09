@@ -492,7 +492,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261009-0256-freebie",
+   "type": "freebie",
+   "headline": "Unlock 101 free tools for your online marketing.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261009-0256-freebie"
+ "pending": null
 }
