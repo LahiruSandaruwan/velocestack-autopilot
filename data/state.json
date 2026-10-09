@@ -1,5 +1,5 @@
 {
- "counter": 44,
+ "counter": 45,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -25,7 +25,8 @@
    "conversion-rate-optimization",
    "landing-page",
    "segmentation",
-   "call-to-action"
+   "call-to-action",
+   "lead-magnet"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -504,5 +505,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261009-1742-term"
 }
