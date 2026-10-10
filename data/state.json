@@ -525,7 +525,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261010-0221-freebie",
+   "type": "freebie",
+   "headline": "Level Up Your Emails: 21 Simple Tactics",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261010-0221-freebie"
+ "pending": null
 }
