@@ -1,5 +1,5 @@
 {
- "counter": 47,
+ "counter": 48,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -11,7 +11,8 @@
    "write-clear-subject",
    "offer-value-first",
    "keep-emails-short",
-   "mobile-friendly-emails"
+   "mobile-friendly-emails",
+   "clean-email-list"
   ],
   "product": [
    "small-business-marketing-kit"
@@ -537,5 +538,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261010-1627-tip"
 }
