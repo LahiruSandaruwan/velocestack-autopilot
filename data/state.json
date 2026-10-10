@@ -536,7 +536,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261010-1627-tip",
+   "type": "tip",
+   "headline": "Clean Your Email List Regularly",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261010-1627-tip"
+ "pending": null
 }
