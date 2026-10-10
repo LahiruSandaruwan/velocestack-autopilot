@@ -547,7 +547,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261010-2001-term",
+   "type": "term",
+   "headline": "Pay-Per-Click (PPC)",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261010-2001-term"
+ "pending": null
 }
