@@ -580,7 +580,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261011-2008-tip",
+   "type": "tip",
+   "headline": "Optimize Your Email Preheader",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261011-2008-tip"
+ "pending": null
 }
