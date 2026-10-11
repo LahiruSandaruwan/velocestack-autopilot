@@ -1,5 +1,5 @@
 {
- "counter": 50,
+ "counter": 51,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -40,7 +40,8 @@
    "google-forms-data-collection",
    "linktree-link-in-bio",
    "trello-project-management",
-   "microsoft-clarity-website-insights"
+   "microsoft-clarity-website-insights",
+   "calendly-meeting-scheduler"
   ],
   "freebie": [
    "guide-email746",
@@ -570,5 +571,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261011-1650-tool"
 }
