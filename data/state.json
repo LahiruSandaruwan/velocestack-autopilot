@@ -558,7 +558,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261011-0146-freebie",
+   "type": "freebie",
+   "headline": "Confused by marketing speak? Get clarity now.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261011-0146-freebie"
+ "pending": null
 }
