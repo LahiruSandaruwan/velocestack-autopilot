@@ -569,7 +569,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261011-1650-tool",
+   "type": "tool",
+   "headline": "Calendly: Simplify Your Meeting Schedule",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261011-1650-tool"
+ "pending": null
 }
