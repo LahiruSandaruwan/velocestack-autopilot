@@ -613,7 +613,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261012-2258-tool",
+   "type": "tool",
+   "headline": "ChatGPT: Your AI writing assistant",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261012-2258-tool"
+ "pending": null
 }
