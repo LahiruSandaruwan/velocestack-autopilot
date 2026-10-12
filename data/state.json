@@ -602,7 +602,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261012-2034-term",
+   "type": "term",
+   "headline": "What is Retargeting?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261012-2034-term"
+ "pending": null
 }
