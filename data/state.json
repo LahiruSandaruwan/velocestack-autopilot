@@ -591,7 +591,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261012-0220-freebie",
+   "type": "freebie",
+   "headline": "Market Smarter: 101 Free Tools Await!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261012-0220-freebie"
+ "pending": null
 }
