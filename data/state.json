@@ -624,7 +624,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261013-0334-freebie",
+   "type": "freebie",
+   "headline": "Unlock Your Emails' Potential: 21 Practical Hacks",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261013-0334-freebie"
+ "pending": null
 }
