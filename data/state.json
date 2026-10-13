@@ -635,7 +635,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261013-1835-tip",
+   "type": "tip",
+   "headline": "Use Engaging Visuals",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261013-1835-tip"
+ "pending": null
 }
