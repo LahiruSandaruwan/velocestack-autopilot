@@ -646,7 +646,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261013-2106-freebie",
+   "type": "freebie",
+   "headline": "Marketing Terms Made Simple? Grab Our FREE Guide!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261013-2106-freebie"
+ "pending": null
 }
