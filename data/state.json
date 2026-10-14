@@ -668,7 +668,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261014-1558-tool",
+   "type": "tool",
+   "headline": "Airtable: Organize your content and customers",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261014-1558-tool"
+ "pending": null
 }
