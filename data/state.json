@@ -679,7 +679,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261014-2014-freebie",
+   "type": "freebie",
+   "headline": "Boost your marketing with 101 free tools!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261014-2014-freebie"
+ "pending": null
 }
