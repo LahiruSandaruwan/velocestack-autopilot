@@ -1,5 +1,5 @@
 {
- "counter": 62,
+ "counter": 63,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -33,7 +33,8 @@
    "lead-magnet",
    "ppc",
    "retargeting",
-   "a-b-testing"
+   "a-b-testing",
+   "niche-marketing"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -702,5 +703,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261015-1549-term"
 }
