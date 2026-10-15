@@ -701,7 +701,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261015-1549-term",
+   "type": "term",
+   "headline": "Niche Marketing",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261015-1549-term"
+ "pending": null
 }
