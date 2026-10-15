@@ -712,7 +712,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261015-1948-freebie",
+   "type": "freebie",
+   "headline": "Level up your emails with 21 practical tactics.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261015-1948-freebie"
+ "pending": null
 }
