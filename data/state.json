@@ -1,5 +1,5 @@
 {
- "counter": 64,
+ "counter": 65,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -49,7 +49,8 @@
    "microsoft-clarity-website-insights",
    "calendly-meeting-scheduler",
    "chatgpt-content-creation",
-   "airtable-data-organization"
+   "airtable-data-organization",
+   "later-social-scheduling"
   ],
   "freebie": [
    "guide-email746",
@@ -724,5 +725,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261016-0113-tool"
 }
