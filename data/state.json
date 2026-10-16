@@ -745,7 +745,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261016-1931-freebie",
+   "type": "freebie",
+   "headline": "Stop scratching your head at marketing jargon!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261016-1931-freebie"
+ "pending": null
 }
