@@ -723,7 +723,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261016-0113-tool",
+   "type": "tool",
+   "headline": "Later: Plan & schedule your social posts",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261016-0113-tool"
+ "pending": null
 }
