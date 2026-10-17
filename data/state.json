@@ -1,5 +1,5 @@
 {
- "counter": 69,
+ "counter": 70,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -78,14 +78,15 @@
    "marketing-jargon-buster",
    "free-tool-kit-creators",
    "actionable-email-tactics-21",
-   "marketing-clarity-guide"
+   "marketing-clarity-guide",
+   "creator-marketing-toolkit"
   ]
  },
  "promoted": {
   "prod:flyer-brochure-template-bundle-100-flyers-brochures-600-psd-banners-for-small-business-marketing": 1,
   "guide:email": 8,
   "guide:dictionary": 8,
-  "guide:tools": 7
+  "guide:tools": 8
  },
  "history": [
   {
@@ -779,5 +780,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261017-1826-freebie"
 }
