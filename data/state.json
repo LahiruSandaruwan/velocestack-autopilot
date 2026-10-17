@@ -767,7 +767,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261017-1426-tool",
+   "type": "tool",
+   "headline": "Notion: Your Flexible Workspace for Everything",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261017-1426-tool"
+ "pending": null
 }
