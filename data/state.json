@@ -1,5 +1,5 @@
 {
- "counter": 68,
+ "counter": 69,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -52,7 +52,8 @@
    "calendly-meeting-scheduler",
    "chatgpt-content-creation",
    "airtable-data-organization",
-   "later-social-scheduling"
+   "later-social-scheduling",
+   "notion-workspace-organization"
   ],
   "freebie": [
    "guide-email746",
@@ -768,5 +769,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261017-1426-tool"
 }
