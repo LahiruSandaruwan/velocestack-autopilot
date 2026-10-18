@@ -789,7 +789,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261018-0054-tip",
+   "type": "tip",
+   "headline": "Write Like a Human",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261018-0054-tip"
+ "pending": null
 }
