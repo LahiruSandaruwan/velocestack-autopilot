@@ -800,7 +800,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261018-1449-freebie",
+   "type": "freebie",
+   "headline": "Boost your email marketing, one simple step at a time.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261018-1449-freebie"
+ "pending": null
 }
