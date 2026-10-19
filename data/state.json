@@ -844,7 +844,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261019-2057-tip",
+   "type": "tip",
+   "headline": "Repurpose Your Best Content",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261019-2057-tip"
+ "pending": null
 }
