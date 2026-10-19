@@ -822,7 +822,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261019-0107-tool",
+   "type": "tool",
+   "headline": "Carrd: Build a simple one-page website",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261019-0107-tool"
+ "pending": null
 }
