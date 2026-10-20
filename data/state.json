@@ -1,5 +1,5 @@
 {
- "counter": 78,
+ "counter": 79,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -58,7 +58,8 @@
    "airtable-data-organization",
    "later-social-scheduling",
    "notion-workspace-organization",
-   "carrd-website-builder"
+   "carrd-website-builder",
+   "loom-video-messaging"
   ],
   "freebie": [
    "guide-email746",
@@ -878,5 +879,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261020-1959-tool"
 }
