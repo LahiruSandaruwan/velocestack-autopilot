@@ -866,7 +866,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261020-1555-freebie",
+   "type": "freebie",
+   "headline": "Free: 101 Free Online Marketing Tools",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261020-1555-freebie"
+ "pending": null
 }
