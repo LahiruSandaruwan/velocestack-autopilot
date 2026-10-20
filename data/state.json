@@ -855,7 +855,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261020-0141-term",
+   "type": "term",
+   "headline": "What's Your Value Proposition?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261020-0141-term"
+ "pending": null
 }
