@@ -877,7 +877,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261020-1959-tool",
+   "type": "tool",
+   "headline": "Loom: Quick Videos for Clear Communication",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261020-1959-tool"
+ "pending": null
 }
