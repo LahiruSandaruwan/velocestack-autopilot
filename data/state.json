@@ -899,7 +899,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261021-1607-freebie",
+   "type": "freebie",
+   "headline": "Make your emails work harder, simply.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261021-1607-freebie"
+ "pending": null
 }
