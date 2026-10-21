@@ -888,7 +888,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261021-0128-tip",
+   "type": "tip",
+   "headline": "Use a Clear Sender Name",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261021-0128-tip"
+ "pending": null
 }
