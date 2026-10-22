@@ -921,7 +921,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261022-0126-tool",
+   "type": "tool",
+   "headline": "HubSpot CRM: Manage customer interactions \ud83e\udd1d",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261022-0126-tool"
+ "pending": null
 }
