@@ -932,7 +932,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261022-1609-freebie",
+   "type": "freebie",
+   "headline": "Marketing jargon? Get plain English answers, A-Z.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261022-1609-freebie"
+ "pending": null
 }
