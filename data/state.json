@@ -943,7 +943,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261022-1953-tip",
+   "type": "tip",
+   "headline": "Use a P.S. for an extra punch",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261022-1953-tip"
+ "pending": null
 }
