@@ -954,7 +954,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261023-0131-freebie",
+   "type": "freebie",
+   "headline": "Cut costs: 101 free tools for online marketing.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261023-0131-freebie"
+ "pending": null
 }
