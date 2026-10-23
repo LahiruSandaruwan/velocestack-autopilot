@@ -1,5 +1,5 @@
 {
- "counter": 87,
+ "counter": 88,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -64,7 +64,8 @@
    "notion-workspace-organization",
    "carrd-website-builder",
    "loom-video-messaging",
-   "hubspot-crm-customer-management"
+   "hubspot-crm-customer-management",
+   "unsplash-stock-photos"
   ],
   "freebie": [
    "guide-email746",
@@ -977,5 +978,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261023-1956-tool"
 }
