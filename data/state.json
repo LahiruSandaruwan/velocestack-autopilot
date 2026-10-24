@@ -987,7 +987,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261024-0132-freebie",
+   "type": "freebie",
+   "headline": "Simple email tweaks for better connections",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261024-0132-freebie"
+ "pending": null
 }
