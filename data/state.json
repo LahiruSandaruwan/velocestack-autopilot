@@ -998,7 +998,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261024-1451-tip",
+   "type": "tip",
+   "headline": "Send plain-text emails sometimes.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261024-1451-tip"
+ "pending": null
 }
