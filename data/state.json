@@ -1042,7 +1042,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261025-1852-tip",
+   "type": "tip",
+   "headline": "Check Your Email Campaign Results",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261025-1852-tip"
+ "pending": null
 }
