@@ -1031,7 +1031,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261025-1506-tool",
+   "type": "tool",
+   "headline": "Bitly: Shorten & Track Your Links",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261025-1506-tool"
+ "pending": null
 }
