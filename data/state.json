@@ -1020,7 +1020,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261025-0105-freebie",
+   "type": "freebie",
+   "headline": "Finally understand internet marketing terms.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261025-0105-freebie"
+ "pending": null
 }
