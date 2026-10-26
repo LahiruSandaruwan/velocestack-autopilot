@@ -1,5 +1,5 @@
 {
- "counter": 95,
+ "counter": 96,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -47,7 +47,8 @@
    "value-proposition",
    "reach",
    "organic-traffic",
-   "customer-lifetime-value"
+   "customer-lifetime-value",
+   "brand-awareness"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -1055,5 +1056,5 @@
    "errors": {}
   }
  ],
- "pending": "20261026-0111-freebie"
+ "pending": "20261026-1742-term"
 }
