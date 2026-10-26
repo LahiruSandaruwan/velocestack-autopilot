@@ -1054,7 +1054,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261026-1742-term",
+   "type": "term",
+   "headline": "Brand Awareness",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261026-1742-term"
+ "pending": null
 }
