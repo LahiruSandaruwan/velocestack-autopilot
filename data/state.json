@@ -1087,7 +1087,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261027-2036-tip",
+   "type": "tip",
+   "headline": "Proofread Every Email",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261027-2036-tip"
+ "pending": null
 }
