@@ -1065,7 +1065,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261027-0204-tool",
+   "type": "tool",
+   "headline": "Photopea: free editor",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261027-0204-tool"
+ "pending": null
 }
