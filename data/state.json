@@ -1076,7 +1076,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261027-1655-freebie",
+   "type": "freebie",
+   "headline": "Simplify Your Emails: 21 Practical Tactics",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261027-1655-freebie"
+ "pending": null
 }
