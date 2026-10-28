@@ -1098,7 +1098,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261028-0215-freebie",
+   "type": "freebie",
+   "headline": "Confused by marketing words? Get clear answers.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261028-0215-freebie"
+ "pending": null
 }
