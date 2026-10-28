@@ -1120,7 +1120,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261028-2057-tool",
+   "type": "tool",
+   "headline": "Google Business Profile: Get Found Locally",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261028-2057-tool"
+ "pending": null
 }
