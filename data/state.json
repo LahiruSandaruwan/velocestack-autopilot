@@ -1,5 +1,5 @@
 {
- "counter": 101,
+ "counter": 102,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -73,7 +73,8 @@
    "hubspot-crm-customer-management",
    "unsplash-stock-photos",
    "bitly-link-management",
-   "photopea"
+   "photopea",
+   "google-business-profile-local-seo"
   ],
   "freebie": [
    "guide-email746",
@@ -1121,5 +1122,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261028-2057-tool"
 }
