@@ -1153,7 +1153,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261029-2105-term",
+   "type": "term",
+   "headline": "What is User-Generated Content (UGC)?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261029-2105-term"
+ "pending": null
 }
