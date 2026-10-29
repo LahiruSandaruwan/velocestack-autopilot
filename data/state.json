@@ -1131,7 +1131,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261029-0224-freebie",
+   "type": "freebie",
+   "headline": "Grow your online presence with 101 free tools.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261029-0224-freebie"
+ "pending": null
 }
