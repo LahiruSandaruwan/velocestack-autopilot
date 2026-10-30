@@ -1186,7 +1186,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261030-2039-tip",
+   "type": "tip",
+   "headline": "Encourage Replies to Your Emails",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261030-2039-tip"
+ "pending": null
 }
