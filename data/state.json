@@ -1164,7 +1164,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261030-0230-freebie",
+   "type": "freebie",
+   "headline": "Make your emails work smarter, not harder.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261030-0230-freebie"
+ "pending": null
 }
