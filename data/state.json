@@ -1197,7 +1197,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261031-0217-freebie",
+   "type": "freebie",
+   "headline": "Confused by marketing jargon? Get clear now!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261031-0217-freebie"
+ "pending": null
 }
