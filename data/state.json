@@ -1208,7 +1208,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261031-1623-term",
+   "type": "term",
+   "headline": "Unique Selling Proposition (USP)",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261031-1623-term"
+ "pending": null
 }
