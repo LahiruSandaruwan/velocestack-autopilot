@@ -1219,7 +1219,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261031-1958-tool",
+   "type": "tool",
+   "headline": "Zoom: Easy video meetings & calls",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261031-1958-tool"
+ "pending": null
 }
