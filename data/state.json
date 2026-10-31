@@ -1,5 +1,5 @@
 {
- "counter": 110,
+ "counter": 111,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -79,7 +79,8 @@
    "bitly-link-management",
    "photopea",
    "google-business-profile-local-seo",
-   "streamyard-live-streaming"
+   "streamyard-live-streaming",
+   "zoom-video-meetings"
   ],
   "freebie": [
    "guide-email746",
@@ -1220,5 +1221,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261031-1958-tool"
 }
