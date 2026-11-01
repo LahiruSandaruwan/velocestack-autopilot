@@ -1241,7 +1241,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261101-1717-tip",
+   "type": "tip",
+   "headline": "Offer something just for subscribers",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261101-1717-tip"
+ "pending": null
 }
