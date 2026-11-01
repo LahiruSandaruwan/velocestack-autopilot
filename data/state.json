@@ -1252,7 +1252,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261101-2025-freebie",
+   "type": "freebie",
+   "headline": "Make email marketing work better for you.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261101-2025-freebie"
+ "pending": null
 }
