@@ -1263,7 +1263,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261102-0222-term",
+   "type": "term",
+   "headline": "Click-Through Rate (CTR)",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261102-0222-term"
+ "pending": null
 }
