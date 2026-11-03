@@ -1296,7 +1296,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261103-0400-tip",
+   "type": "tip",
+   "headline": "Resend to Non-Openers",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261103-0400-tip"
+ "pending": null
 }
