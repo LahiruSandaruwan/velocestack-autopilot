@@ -1318,7 +1318,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261103-2143-freebie",
+   "type": "freebie",
+   "headline": "Your free toolkit: 101 marketing tools for creators",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261103-2143-freebie"
+ "pending": null
 }
