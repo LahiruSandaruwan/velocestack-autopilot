@@ -1307,7 +1307,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261103-1848-term",
+   "type": "term",
+   "headline": "Engagement Rate",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261103-1848-term"
+ "pending": null
 }
