@@ -1329,7 +1329,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261104-0304-tool",
+   "type": "tool",
+   "headline": "Figma: Design Graphics with Your Team in Real Time",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261104-0304-tool"
+ "pending": null
 }
