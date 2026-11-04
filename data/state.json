@@ -143,16 +143,6 @@
  },
  "history": [
   {
-   "id": "20260924-1554-product",
-   "type": "product",
-   "headline": "Tired of paying designers for every marketing piece?",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260924-1639-term",
    "type": "term",
    "headline": "Search Engine Optimization (SEO)",
@@ -1343,7 +1333,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261104-2152-freebie",
+   "type": "freebie",
+   "headline": "Make your emails work better, simply.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261104-2152-freebie"
+ "pending": null
 }
