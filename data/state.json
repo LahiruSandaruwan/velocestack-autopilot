@@ -142,14 +142,6 @@
  },
  "history": [
   {
-   "id": "20260924-1537-tip",
-   "type": "tip",
-   "headline": "Send the welcome email immediately",
-   "mode": "review",
-   "results": {},
-   "errors": {}
-  },
-  {
    "id": "20260924-1554-product",
    "type": "product",
    "headline": "Tired of paying designers for every marketing piece?",
@@ -1340,7 +1332,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261104-1854-tip",
+   "type": "tip",
+   "headline": "Show Them What Others Love",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261104-1854-tip"
+ "pending": null
 }
