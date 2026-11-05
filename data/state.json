@@ -1,5 +1,5 @@
 {
- "counter": 123,
+ "counter": 124,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -59,7 +59,8 @@
    "user-generated-content",
    "unique-selling-proposition",
    "click-through-rate",
-   "engagement-rate"
+   "engagement-rate",
+   "evergreen-content"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -1345,5 +1346,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261105-0326-term"
 }
