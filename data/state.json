@@ -145,16 +145,6 @@
  },
  "history": [
   {
-   "id": "20260925-0127-tool",
-   "type": "tool",
-   "headline": "Google Analytics: See Who Visits Your Website",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260925-1604-freebie",
    "type": "freebie",
    "headline": "Free: 21 Email Marketing Hacks",
@@ -1343,7 +1333,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261105-2155-tool",
+   "type": "tool",
+   "headline": "Zapier: Connect your apps, automate tasks",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261105-2155-tool"
+ "pending": null
 }
