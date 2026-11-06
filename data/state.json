@@ -147,16 +147,6 @@
  },
  "history": [
   {
-   "id": "20260925-2003-tip",
-   "type": "tip",
-   "headline": "Segment Your Email List",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260926-0132-term",
    "type": "term",
    "headline": "Email Marketing",
@@ -1345,7 +1335,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261106-1825-tip",
+   "type": "tip",
+   "headline": "Automate Your Abandoned Cart Emails",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261106-1825-tip"
+ "pending": null
 }
