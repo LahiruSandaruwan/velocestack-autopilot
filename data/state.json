@@ -148,16 +148,6 @@
  },
  "history": [
   {
-   "id": "20260926-0132-term",
-   "type": "term",
-   "headline": "Email Marketing",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260926-1509-freebie",
    "type": "freebie",
    "headline": "Marketing jargon got you stuck? Get clarity!",
@@ -1346,7 +1336,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261106-2131-freebie",
+   "type": "freebie",
+   "headline": "Your Free Marketing Toolkit: 101 Tools for Creators",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261106-2131-freebie"
+ "pending": null
 }
