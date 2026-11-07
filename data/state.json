@@ -151,16 +151,6 @@
  },
  "history": [
   {
-   "id": "20260927-0119-tip",
-   "type": "tip",
-   "headline": "Simply Ask for Feedback",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260927-1553-freebie",
    "type": "freebie",
    "headline": "101 Free Marketing Tools: Your Zero-Budget Toolkit",
@@ -1349,7 +1339,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261107-2003-freebie",
+   "type": "freebie",
+   "headline": "Ready for simpler emails? Get 21 practical hacks.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261107-2003-freebie"
+ "pending": null
 }
