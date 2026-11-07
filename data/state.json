@@ -149,16 +149,6 @@
  },
  "history": [
   {
-   "id": "20260926-1509-freebie",
-   "type": "freebie",
-   "headline": "Marketing jargon got you stuck? Get clarity!",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260926-1910-tool",
    "type": "tool",
    "headline": "Mailchimp: Stay connected with your audience",
@@ -1347,7 +1337,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261107-0247-term",
+   "type": "term",
+   "headline": "Influencer Marketing",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261107-0247-term"
+ "pending": null
 }
