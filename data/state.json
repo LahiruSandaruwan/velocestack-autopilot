@@ -150,16 +150,6 @@
  },
  "history": [
   {
-   "id": "20260926-1910-tool",
-   "type": "tool",
-   "headline": "Mailchimp: Stay connected with your audience",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260927-0119-tip",
    "type": "tip",
    "headline": "Simply Ask for Feedback",
@@ -1348,7 +1338,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261107-1705-tool",
+   "type": "tool",
+   "headline": "Discord: Build Your Creator Community",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261107-1705-tool"
+ "pending": null
 }
