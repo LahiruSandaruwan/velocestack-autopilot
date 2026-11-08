@@ -154,16 +154,6 @@
  },
  "history": [
   {
-   "id": "20260928-0134-tool",
-   "type": "tool",
-   "headline": "Canva: Easy Graphic Design for Everyone",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260928-1848-freebie",
    "type": "freebie",
    "headline": "Boost your emails with 21 easy, practical hacks",
@@ -1352,7 +1342,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261108-2024-freebie",
+   "type": "freebie",
+   "headline": "Marketing made clear: 102 terms explained.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261108-2024-freebie"
+ "pending": null
 }
