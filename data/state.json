@@ -1,5 +1,5 @@
 {
- "counter": 132,
+ "counter": 133,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -63,7 +63,8 @@
    "click-through-rate",
    "engagement-rate",
    "evergreen-content",
-   "influencer-marketing"
+   "influencer-marketing",
+   "competitor-analysis"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -1352,5 +1353,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261108-1717-term"
 }
