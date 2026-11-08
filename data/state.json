@@ -153,16 +153,6 @@
  },
  "history": [
   {
-   "id": "20260927-1944-term",
-   "type": "term",
-   "headline": "Content Marketing",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260928-0134-tool",
    "type": "tool",
    "headline": "Canva: Easy Graphic Design for Everyone",
@@ -1351,7 +1341,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261108-1717-term",
+   "type": "term",
+   "headline": "Understand Your Competition",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261108-1717-term"
+ "pending": null
 }
