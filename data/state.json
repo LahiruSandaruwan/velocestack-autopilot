@@ -152,16 +152,6 @@
  },
  "history": [
   {
-   "id": "20260927-1553-freebie",
-   "type": "freebie",
-   "headline": "101 Free Marketing Tools: Your Zero-Budget Toolkit",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260927-1944-term",
    "type": "term",
    "headline": "Content Marketing",
@@ -1350,7 +1340,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261108-0215-tip",
+   "type": "tip",
+   "headline": "Mix Up Your Email Content",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261108-0215-tip"
+ "pending": null
 }
