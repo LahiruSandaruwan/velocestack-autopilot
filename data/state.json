@@ -155,16 +155,6 @@
  },
  "history": [
   {
-   "id": "20260928-1848-freebie",
-   "type": "freebie",
-   "headline": "Boost your emails with 21 easy, practical hacks",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260928-2146-tip",
    "type": "tip",
    "headline": "Test one thing at a time",
@@ -1353,7 +1343,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261109-0239-tool",
+   "type": "tool",
+   "headline": "Ubersuggest: Find Keywords for Your Content",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261109-0239-tool"
+ "pending": null
 }
