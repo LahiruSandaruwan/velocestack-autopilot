@@ -156,16 +156,6 @@
  },
  "history": [
   {
-   "id": "20260928-2146-tip",
-   "type": "tip",
-   "headline": "Test one thing at a time",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260929-0236-freebie",
    "type": "freebie",
    "headline": "Decode Marketing Jargon: Your A-Z Guide",
@@ -1354,7 +1344,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261109-2138-tip",
+   "type": "tip",
+   "headline": "Share a Quick, Useful Tip",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261109-2138-tip"
+ "pending": null
 }
