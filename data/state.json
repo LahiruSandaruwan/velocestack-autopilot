@@ -158,16 +158,6 @@
  },
  "history": [
   {
-   "id": "20260929-1700-term",
-   "type": "term",
-   "headline": "Social Media Marketing",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260929-2043-tool",
    "type": "tool",
    "headline": "Buffer: Schedule Social Media Posts Easily",
@@ -1356,7 +1346,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261110-0448-term",
+   "type": "term",
+   "headline": "What is Social Proof?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261110-0448-term"
+ "pending": null
 }
