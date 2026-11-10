@@ -160,16 +160,6 @@
  },
  "history": [
   {
-   "id": "20260930-0206-freebie",
-   "type": "freebie",
-   "headline": "Free: 101 Free Online Marketing Tools",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260930-1701-tip",
    "type": "tip",
    "headline": "Send on a steady schedule",
@@ -1358,7 +1348,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261110-2145-freebie",
+   "type": "freebie",
+   "headline": "Unlock 21 email marketing hacks, one step at a time",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261110-2145-freebie"
+ "pending": null
 }
