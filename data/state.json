@@ -157,16 +157,6 @@
  },
  "history": [
   {
-   "id": "20260929-0236-freebie",
-   "type": "freebie",
-   "headline": "Decode Marketing Jargon: Your A-Z Guide",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260929-1700-term",
    "type": "term",
    "headline": "Social Media Marketing",
@@ -1355,7 +1345,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261110-0011-freebie",
+   "type": "freebie",
+   "headline": "Unlock Free Marketing: 101 Tools for Your Business",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261110-0011-freebie"
+ "pending": null
 }
