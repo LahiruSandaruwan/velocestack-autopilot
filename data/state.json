@@ -162,16 +162,6 @@
  },
  "history": [
   {
-   "id": "20260930-2041-term",
-   "type": "term",
-   "headline": "Affiliate Marketing",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261001-0202-freebie",
    "type": "freebie",
    "headline": "Free: 21 Email Marketing Hacks",
@@ -1360,7 +1350,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261111-1853-freebie",
+   "type": "freebie",
+   "headline": "Get clear on marketing terms, A to Z.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261111-1853-freebie"
+ "pending": null
 }
