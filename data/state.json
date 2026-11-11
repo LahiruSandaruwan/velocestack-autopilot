@@ -163,16 +163,6 @@
  },
  "history": [
   {
-   "id": "20261001-0202-freebie",
-   "type": "freebie",
-   "headline": "Free: 21 Email Marketing Hacks",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261001-1747-tool",
    "type": "tool",
    "headline": "Google Search Console: Boost Your Website",
@@ -1361,7 +1351,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261111-2235-term",
+   "type": "term",
+   "headline": "Marketing Funnel Explained",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261111-2235-term"
+ "pending": null
 }
