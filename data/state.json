@@ -161,16 +161,6 @@
  },
  "history": [
   {
-   "id": "20260930-1701-tip",
-   "type": "tip",
-   "headline": "Send on a steady schedule",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20260930-2041-term",
    "type": "term",
    "headline": "Affiliate Marketing",
@@ -1359,7 +1349,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261111-0245-tip",
+   "type": "tip",
+   "headline": "Use a Real Reply-to Email Address",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261111-0245-tip"
+ "pending": null
 }
