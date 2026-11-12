@@ -164,16 +164,6 @@
  },
  "history": [
   {
-   "id": "20261001-1747-tool",
-   "type": "tool",
-   "headline": "Google Search Console: Boost Your Website",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261001-2059-tip",
    "type": "tip",
    "headline": "Focus on One Clear Action",
@@ -1362,7 +1352,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261112-0344-tool",
+   "type": "tool",
+   "headline": "CapCut: Simple Video Editing for Creators",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261112-0344-tool"
+ "pending": null
 }
