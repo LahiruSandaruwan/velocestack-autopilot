@@ -165,16 +165,6 @@
  },
  "history": [
   {
-   "id": "20261001-2059-tip",
-   "type": "tip",
-   "headline": "Focus on One Clear Action",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261002-0210-freebie",
    "type": "freebie",
    "headline": "Decode marketing terms: A plain English guide",
@@ -1363,7 +1353,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261112-1912-freebie",
+   "type": "freebie",
+   "headline": "Zero-Budget Marketing? Grab 101 Free Tools Here.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261112-1912-freebie"
+ "pending": null
 }
