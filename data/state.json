@@ -166,16 +166,6 @@
  },
  "history": [
   {
-   "id": "20261002-0210-freebie",
-   "type": "freebie",
-   "headline": "Decode marketing terms: A plain English guide",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261002-1654-term",
    "type": "term",
    "headline": "Conversion Rate Optimization (CRO)",
@@ -1364,7 +1354,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261112-2213-tip",
+   "type": "tip",
+   "headline": "Use headings and bullet points",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261112-2213-tip"
+ "pending": null
 }
