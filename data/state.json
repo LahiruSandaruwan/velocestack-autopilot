@@ -1,5 +1,5 @@
 {
- "counter": 145,
+ "counter": 146,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -32,7 +32,8 @@
    "abandon-cart-sequence",
    "vary-email-content",
    "share-quick-tip",
-   "use-real-reply-email"
+   "use-real-reply-email",
+   "use-headings-bullets"
   ],
   "product": [
    "small-business-marketing-kit"
@@ -1365,5 +1366,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261112-2213-tip"
 }
