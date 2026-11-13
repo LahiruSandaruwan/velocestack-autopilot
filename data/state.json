@@ -168,16 +168,6 @@
  },
  "history": [
   {
-   "id": "20261002-2038-tool",
-   "type": "tool",
-   "headline": "Grammarly: Improve your writing instantly",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261003-0158-freebie",
    "type": "freebie",
    "headline": "Zero-budget marketing? Get 101 free tools today!",
@@ -1366,7 +1356,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261113-1844-freebie",
+   "type": "freebie",
+   "headline": "Unlock 21 simple ways to improve your emails.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261113-1844-freebie"
+ "pending": null
 }
