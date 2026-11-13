@@ -167,16 +167,6 @@
  },
  "history": [
   {
-   "id": "20261002-1654-term",
-   "type": "term",
-   "headline": "Conversion Rate Optimization (CRO)",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261002-2038-tool",
    "type": "tool",
    "headline": "Grammarly: Improve your writing instantly",
@@ -1365,7 +1355,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261113-0322-term",
+   "type": "term",
+   "headline": "What is a Marketing Persona?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261113-0322-term"
+ "pending": null
 }
