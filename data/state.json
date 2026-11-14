@@ -1,5 +1,5 @@
 {
- "counter": 151,
+ "counter": 152,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -71,7 +71,8 @@
    "competitor-analysis",
    "social-proof",
    "marketing-funnel",
-   "marketing-persona"
+   "marketing-persona",
+   "kpi"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -1371,5 +1372,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261114-2041-term"
 }
