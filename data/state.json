@@ -172,16 +172,6 @@
  },
  "history": [
   {
-   "id": "20261004-0230-term",
-   "type": "term",
-   "headline": "What's a Landing Page?",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261004-1603-tool",
    "type": "tool",
    "headline": "Google Forms: Collect info effortlessly",
@@ -1370,7 +1360,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261114-2041-term",
+   "type": "term",
+   "headline": "What's a KPI?",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261114-2041-term"
+ "pending": null
 }
