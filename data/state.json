@@ -173,16 +173,6 @@
  },
  "history": [
   {
-   "id": "20261004-1603-tool",
-   "type": "tool",
-   "headline": "Google Forms: Collect info effortlessly",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261004-1930-freebie",
    "type": "freebie",
    "headline": "Cut through marketing jargon, for good. Free guide!",
@@ -1371,7 +1361,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261115-0234-tool",
+   "type": "tool",
+   "headline": "Jotform: Build Forms & Surveys Easily",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261115-0234-tool"
+ "pending": null
 }
