@@ -1,5 +1,5 @@
 {
- "counter": 152,
+ "counter": 153,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -106,7 +106,8 @@
    "ubersuggest-keyword-research",
    "slack-team-communication",
    "capcut-video-editing",
-   "screenpal-screen-recorder"
+   "screenpal-screen-recorder",
+   "jotform-online-forms"
   ],
   "freebie": [
    "guide-email746",
@@ -1372,5 +1373,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261115-0234-tool"
 }
