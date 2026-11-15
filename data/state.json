@@ -175,16 +175,6 @@
  },
  "history": [
   {
-   "id": "20261005-0150-tip",
-   "type": "tip",
-   "headline": "Give Value Before You Ask for a Sale",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261006-0251-term",
    "type": "term",
    "headline": "Segmentation",
@@ -1373,7 +1363,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261115-2057-tip",
+   "type": "tip",
+   "headline": "Give a Sneak Peek of What's Coming",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261115-2057-tip"
+ "pending": null
 }
