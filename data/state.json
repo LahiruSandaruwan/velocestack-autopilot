@@ -177,16 +177,6 @@
  },
  "history": [
   {
-   "id": "20261006-1723-freebie",
-   "type": "freebie",
-   "headline": "Grow your reach for free? Get 101 marketing tools!",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261006-2058-tool",
    "type": "tool",
    "headline": "Linktree: Share All Your Links Easily",
@@ -1375,7 +1365,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261116-2120-term",
+   "type": "term",
+   "headline": "Attract Customers with Inbound Marketing",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261116-2120-term"
+ "pending": null
 }
