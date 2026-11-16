@@ -176,16 +176,6 @@
  },
  "history": [
   {
-   "id": "20261006-0251-term",
-   "type": "term",
-   "headline": "Segmentation",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261006-1723-freebie",
    "type": "freebie",
    "headline": "Grow your reach for free? Get 101 marketing tools!",
@@ -1374,7 +1364,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261116-0246-freebie",
+   "type": "freebie",
+   "headline": "Make email marketing less of a headache.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261116-0246-freebie"
+ "pending": null
 }
