@@ -1,5 +1,5 @@
 {
- "counter": 160,
+ "counter": 161,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -75,7 +75,8 @@
    "marketing-funnel",
    "marketing-persona",
    "kpi",
-   "inbound-marketing"
+   "inbound-marketing",
+   "geo-targeting"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -1380,5 +1381,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261117-2330-term"
 }
