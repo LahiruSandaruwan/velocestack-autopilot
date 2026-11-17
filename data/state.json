@@ -179,16 +179,6 @@
  },
  "history": [
   {
-   "id": "20261007-0220-tip",
-   "type": "tip",
-   "headline": "Keep Your Emails Short and Sweet",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261007-1806-freebie",
    "type": "freebie",
    "headline": "Unlock your email potential: 21 simple hacks",
@@ -1377,7 +1367,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261117-0501-freebie",
+   "type": "freebie",
+   "headline": "Marketing terms got you confused? Get clarity.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261117-0501-freebie"
+ "pending": null
 }
