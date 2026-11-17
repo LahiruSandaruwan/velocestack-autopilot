@@ -178,16 +178,6 @@
  },
  "history": [
   {
-   "id": "20261006-2058-tool",
-   "type": "tool",
-   "headline": "Linktree: Share All Your Links Easily",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261007-0220-tip",
    "type": "tip",
    "headline": "Keep Your Emails Short and Sweet",
@@ -1376,7 +1366,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261117-0009-tool",
+   "type": "tool",
+   "headline": "MailerLite: Simple Email Marketing",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261117-0009-tool"
+ "pending": null
 }
