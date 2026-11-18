@@ -183,16 +183,6 @@
  },
  "history": [
   {
-   "id": "20261008-1800-freebie",
-   "type": "freebie",
-   "headline": "Free: The Internet Marketing Dictionary",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261008-2113-tip",
    "type": "tip",
    "headline": "Make Your Emails Easy to Read on Any Device",
@@ -1381,7 +1371,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261118-1932-tool",
+   "type": "tool",
+   "headline": "Tally: Simple, unlimited online forms",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261118-1932-tool"
+ "pending": null
 }
