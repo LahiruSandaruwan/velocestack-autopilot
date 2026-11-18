@@ -182,16 +182,6 @@
  },
  "history": [
   {
-   "id": "20261008-0248-tool",
-   "type": "tool",
-   "headline": "Trello: Organize Your Projects Visually",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261008-1800-freebie",
    "type": "freebie",
    "headline": "Free: The Internet Marketing Dictionary",
@@ -1380,7 +1370,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261118-0413-freebie",
+   "type": "freebie",
+   "headline": "Free: 101 Free Online Marketing Tools",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261118-0413-freebie"
+ "pending": null
 }
