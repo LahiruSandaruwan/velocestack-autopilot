@@ -187,16 +187,6 @@
  },
  "history": [
   {
-   "id": "20261009-2051-tool",
-   "type": "tool",
-   "headline": "Microsoft Clarity: See how people use your website \ud83e\uddd0",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261010-0221-freebie",
    "type": "freebie",
    "headline": "Level Up Your Emails: 21 Simple Tactics",
@@ -1385,7 +1375,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261119-2316-tool",
+   "type": "tool",
+   "headline": "Yoast SEO: Optimize Your WordPress Website for Search",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261119-2316-tool"
+ "pending": null
 }
