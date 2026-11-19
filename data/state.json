@@ -1,5 +1,5 @@
 {
- "counter": 166,
+ "counter": 167,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -115,7 +115,8 @@
    "screenpal-screen-recorder",
    "jotform-online-forms",
    "mailerlite-email-marketing",
-   "tally-online-forms"
+   "tally-online-forms",
+   "yoast-seo-wordpress"
   ],
   "freebie": [
    "guide-email746",
@@ -1386,5 +1387,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261119-2316-tool"
 }
