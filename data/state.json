@@ -190,16 +190,6 @@
  },
  "history": [
   {
-   "id": "20261010-2001-term",
-   "type": "term",
-   "headline": "Pay-Per-Click (PPC)",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261011-0146-freebie",
    "type": "freebie",
    "headline": "Confused by marketing speak? Get clarity now.",
@@ -1388,7 +1378,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261120-2235-freebie",
+   "type": "freebie",
+   "headline": "Unlock 101 Free Tools for Your Online Business",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261120-2235-freebie"
+ "pending": null
 }
