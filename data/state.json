@@ -188,16 +188,6 @@
  },
  "history": [
   {
-   "id": "20261010-0221-freebie",
-   "type": "freebie",
-   "headline": "Level Up Your Emails: 21 Simple Tactics",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261010-1627-tip",
    "type": "tip",
    "headline": "Clean Your Email List Regularly",
@@ -1386,7 +1376,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261120-0413-freebie",
+   "type": "freebie",
+   "headline": "Cut Through Marketing Confusion",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261120-0413-freebie"
+ "pending": null
 }
