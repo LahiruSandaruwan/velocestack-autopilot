@@ -1,5 +1,5 @@
 {
- "counter": 170,
+ "counter": 171,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -79,7 +79,8 @@
    "kpi",
    "inbound-marketing",
    "geo-targeting",
-   "customer-relationship-management"
+   "customer-relationship-management",
+   "conversion-rate"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -1390,5 +1391,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261121-0400-term"
 }
