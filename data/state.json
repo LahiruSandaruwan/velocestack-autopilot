@@ -193,16 +193,6 @@
  },
  "history": [
   {
-   "id": "20261011-2008-tip",
-   "type": "tip",
-   "headline": "Optimize Your Email Preheader",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261012-0220-freebie",
    "type": "freebie",
    "headline": "Market Smarter: 101 Free Tools Await!",
@@ -1391,7 +1381,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261121-2135-freebie",
+   "type": "freebie",
+   "headline": "Get more from your emails, one small step at a time",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261121-2135-freebie"
+ "pending": null
 }
