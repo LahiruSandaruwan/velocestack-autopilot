@@ -191,16 +191,6 @@
  },
  "history": [
   {
-   "id": "20261011-0146-freebie",
-   "type": "freebie",
-   "headline": "Confused by marketing speak? Get clarity now.",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261011-1650-tool",
    "type": "tool",
    "headline": "Calendly: Simplify Your Meeting Schedule",
@@ -1389,7 +1379,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261121-0400-term",
+   "type": "term",
+   "headline": "Conversion rate",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261121-0400-term"
+ "pending": null
 }
