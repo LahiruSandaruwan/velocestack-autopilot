@@ -192,16 +192,6 @@
  },
  "history": [
   {
-   "id": "20261011-1650-tool",
-   "type": "tool",
-   "headline": "Calendly: Simplify Your Meeting Schedule",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261011-2008-tip",
    "type": "tip",
    "headline": "Optimize Your Email Preheader",
@@ -1390,7 +1380,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261121-1813-tool",
+   "type": "tool",
+   "headline": "ManyChat: Automate Your Messenger Marketing",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261121-1813-tool"
+ "pending": null
 }
