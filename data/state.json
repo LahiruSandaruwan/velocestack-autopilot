@@ -196,16 +196,6 @@
  },
  "history": [
   {
-   "id": "20261012-2258-tool",
-   "type": "tool",
-   "headline": "ChatGPT: Your AI writing assistant",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261013-0334-freebie",
    "type": "freebie",
    "headline": "Unlock Your Emails' Potential: 21 Practical Hacks",
@@ -1394,7 +1384,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261122-2148-freebie",
+   "type": "freebie",
+   "headline": "Get clear on 102 marketing terms, A to Z.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261122-2148-freebie"
+ "pending": null
 }
