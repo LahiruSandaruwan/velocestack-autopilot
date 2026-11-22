@@ -194,16 +194,6 @@
  },
  "history": [
   {
-   "id": "20261012-0220-freebie",
-   "type": "freebie",
-   "headline": "Market Smarter: 101 Free Tools Await!",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261012-2034-term",
    "type": "term",
    "headline": "What is Retargeting?",
@@ -1392,7 +1382,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261122-0301-tip",
+   "type": "tip",
+   "headline": "Ask a simple question",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261122-0301-tip"
+ "pending": null
 }
