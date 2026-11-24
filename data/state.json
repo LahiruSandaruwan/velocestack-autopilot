@@ -201,16 +201,6 @@
  },
  "history": [
   {
-   "id": "20261014-1558-tool",
-   "type": "tool",
-   "headline": "Airtable: Organize your content and customers",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261014-2014-freebie",
    "type": "freebie",
    "headline": "Boost your marketing with 101 free tools!",
@@ -1399,7 +1389,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261124-2131-tool",
+   "type": "tool",
+   "headline": "Hotjar: See how visitors use your website",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261124-2131-tool"
+ "pending": null
 }
