@@ -1,5 +1,5 @@
 {
- "counter": 180,
+ "counter": 181,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -124,7 +124,8 @@
    "tally-online-forms",
    "yoast-seo-wordpress",
    "manychat-chatbot-marketing",
-   "kapwing-online-editor"
+   "kapwing-online-editor",
+   "hotjar-website-insights"
   ],
   "freebie": [
    "guide-email746",
@@ -1400,5 +1401,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261124-2131-tool"
 }
