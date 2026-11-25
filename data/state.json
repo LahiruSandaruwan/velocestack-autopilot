@@ -202,16 +202,6 @@
  },
  "history": [
   {
-   "id": "20261014-2014-freebie",
-   "type": "freebie",
-   "headline": "Boost your marketing with 101 free tools!",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261015-0130-tip",
    "type": "tip",
    "headline": "Share a little story in your emails",
@@ -1400,7 +1390,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261125-0036-freebie",
+   "type": "freebie",
+   "headline": "Boost your emails with 21 simple, practical hacks.",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261125-0036-freebie"
+ "pending": null
 }
