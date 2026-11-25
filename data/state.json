@@ -203,16 +203,6 @@
  },
  "history": [
   {
-   "id": "20261015-0130-tip",
-   "type": "tip",
-   "headline": "Share a little story in your emails",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261015-1549-term",
    "type": "term",
    "headline": "Niche Marketing",
@@ -1401,7 +1391,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261125-0524-tip",
+   "type": "tip",
+   "headline": "Re-engage inactive subscribers",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261125-0524-tip"
+ "pending": null
 }
