@@ -204,16 +204,6 @@
  },
  "history": [
   {
-   "id": "20261015-1549-term",
-   "type": "term",
-   "headline": "Niche Marketing",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261015-1948-freebie",
    "type": "freebie",
    "headline": "Level up your emails with 21 practical tactics.",
@@ -1402,7 +1392,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261125-2040-freebie",
+   "type": "freebie",
+   "headline": "Marketing terms confusing you? Get clarity now!",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261125-2040-freebie"
+ "pending": null
 }
