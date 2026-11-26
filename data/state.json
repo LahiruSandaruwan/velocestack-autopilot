@@ -1,5 +1,5 @@
 {
- "counter": 184,
+ "counter": 185,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -85,7 +85,8 @@
    "customer-relationship-management",
    "conversion-rate",
    "web-analytics",
-   "ab-test"
+   "ab-test",
+   "customer-acquisition-cost"
   ],
   "tool": [
    "google-analytics-traffic",
@@ -1404,5 +1405,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261126-0009-term"
 }
