@@ -205,16 +205,6 @@
  },
  "history": [
   {
-   "id": "20261015-1948-freebie",
-   "type": "freebie",
-   "headline": "Level up your emails with 21 practical tactics.",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261016-0113-tool",
    "type": "tool",
    "headline": "Later: Plan & schedule your social posts",
@@ -1403,7 +1393,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261126-0009-term",
+   "type": "term",
+   "headline": "Customer Acquisition Cost (CAC)",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261126-0009-term"
+ "pending": null
 }
