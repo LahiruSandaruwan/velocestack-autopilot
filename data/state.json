@@ -1,5 +1,5 @@
 {
- "counter": 189,
+ "counter": 190,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -198,12 +198,13 @@
    "free-marketing-tools-kit-101",
    "email-marketing-quick-wins",
    "jargon-free-marketing",
-   "creator-marketing-tools-free"
+   "creator-marketing-tools-free",
+   "email-tactics-21"
   ]
  },
  "promoted": {
   "prod:flyer-brochure-template-bundle-100-flyers-brochures-600-psd-banners-for-small-business-marketing": 1,
-  "guide:email": 22,
+  "guide:email": 23,
   "guide:dictionary": 22,
   "guide:tools": 22
  },
@@ -1409,5 +1410,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261127-2014-freebie"
 }
