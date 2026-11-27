@@ -208,16 +208,6 @@
  },
  "history": [
   {
-   "id": "20261016-1931-freebie",
-   "type": "freebie",
-   "headline": "Stop scratching your head at marketing jargon!",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261017-0121-term",
    "type": "term",
    "headline": "The Customer Journey",
@@ -1406,7 +1396,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261127-0031-tip",
+   "type": "tip",
+   "headline": "Offer a preference center",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261127-0031-tip"
+ "pending": null
 }
