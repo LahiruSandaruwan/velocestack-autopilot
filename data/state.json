@@ -209,16 +209,6 @@
  },
  "history": [
   {
-   "id": "20261017-0121-term",
-   "type": "term",
-   "headline": "The Customer Journey",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261017-1426-tool",
    "type": "tool",
    "headline": "Notion: Your Flexible Workspace for Everything",
@@ -1407,7 +1397,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261127-0504-term",
+   "type": "term",
+   "headline": "Call to action (CTA)",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261127-0504-term"
+ "pending": null
 }
