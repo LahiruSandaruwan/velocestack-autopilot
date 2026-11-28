@@ -212,16 +212,6 @@
  },
  "history": [
   {
-   "id": "20261018-0054-tip",
-   "type": "tip",
-   "headline": "Write Like a Human",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261018-1449-freebie",
    "type": "freebie",
    "headline": "Boost your email marketing, one simple step at a time.",
@@ -1410,7 +1400,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261128-0447-tip",
+   "type": "tip",
+   "headline": "Use Your Subscriber's Name",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261128-0447-tip"
+ "pending": null
 }
