@@ -211,16 +211,6 @@
  },
  "history": [
   {
-   "id": "20261017-1826-freebie",
-   "type": "freebie",
-   "headline": "Maximize your marketing with 101 free online tools.",
-   "mode": "review",
-   "results": {
-    "telegram-review": "sent"
-   },
-   "errors": {}
-  },
-  {
    "id": "20261018-0054-tip",
    "type": "tip",
    "headline": "Write Like a Human",
@@ -1409,7 +1399,17 @@
     "telegram-review": "sent"
    },
    "errors": {}
+  },
+  {
+   "id": "20261128-0007-tool",
+   "type": "tool",
+   "headline": "Pixlr: Edit Your Images Online Easily",
+   "mode": "review",
+   "results": {
+    "telegram-review": "sent"
+   },
+   "errors": {}
   }
  ],
- "pending": "20261128-0007-tool"
+ "pending": null
 }
