@@ -1,5 +1,5 @@
 {
- "counter": 190,
+ "counter": 191,
  "used": {
   "tip": [
    "welcome-email-fast",
@@ -130,7 +130,8 @@
    "manychat-chatbot-marketing",
    "kapwing-online-editor",
    "hotjar-website-insights",
-   "keywords-everywhere-keyword-research"
+   "keywords-everywhere-keyword-research",
+   "pixlr-image-editing"
   ],
   "freebie": [
    "guide-email746",
@@ -1410,5 +1411,5 @@
    "errors": {}
   }
  ],
- "pending": null
+ "pending": "20261128-0007-tool"
 }
